@@ -1,0 +1,22 @@
+{
+  "name": "requestanimationframe",
+  "version": "1.0.0",
+  "description": "requestAnimationFrame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liqihan/requestAnimationFrame.git"
+  },
+  "keywords": [
+    "ttps://github.com/Liqihan/requestAnimationFrame.git"
+  ],
+  "author": "grove.liqihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liqihan/requestAnimationFrame/issues"
+  },
+  "homepage": "https://github.com/Liqihan/requestAnimationFrame#readme"
+}
